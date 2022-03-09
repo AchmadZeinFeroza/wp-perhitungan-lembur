@@ -15,7 +15,12 @@ Contoh hasil perhitungan lembur pegawai dalam masa percobaan seperti berikut.
 2. Lembur 2,5 jam, maka mendapatkan upah lembur 1 jam
 3. Lembur 1,5 jam, maka tidak mendapatkan upah lembur
 4. Lembur 3,9 jam, maka mendapatkan upah lembur 2 jam
+## Cara Menjalankan
 
+1. Setting file .env
+2. Created Database "wp-perhitungan-lembur"
+3. Jalankan Syntax "php artisan migrate --seed"
+4. 
 ## Fitur
 
 1. Dapat Menambah Data Karyawan (Employee) => 'http://127.0.0.1:8000/api/employees' method 'POST'
