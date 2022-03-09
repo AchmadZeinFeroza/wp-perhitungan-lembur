@@ -20,7 +20,7 @@ Contoh hasil perhitungan lembur pegawai dalam masa percobaan seperti berikut.
 1. Setting file .env
 2. Created Database "wp-perhitungan-lembur"
 3. Jalankan Syntax "php artisan migrate --seed"
-4. 
+
 ## Fitur
 
 1. Dapat Menambah Data Karyawan (Employee) => 'http://127.0.0.1:8000/api/employees' method 'POST'
